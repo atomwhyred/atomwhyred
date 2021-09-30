@@ -21,11 +21,11 @@
 
 ### Last posts
 <!-- BLOG-POST-LIST:START -->
+- [WINDOWS | Aplicación compacta y ligera que permite ver nuevas funciones en Windows 11](https://elrincondeatom.com/blog/windows-aplicacion-compacta-y-ligera-que-permite-ver-nuevas-funciones-en-windows-11/)
+- [XIAOMI | Instala una Custom ROM o la Xiaomi.eu basada en MIUI](https://elrincondeatom.com/blog/xiaomi-instala-una-custom-rom-o-la-xiaomi-eu-basada-en-miui/)
 - [ATAJOS | Para diseñadores y programadores](https://elrincondeatom.com/blog/atajos-para-disenadores-y-programadores/)
 - [WINDOWS | Pasos para actualizar a Windows 11](https://elrincondeatom.com/blog/windows-pasos-para-actualizar-a-windows-11/)
 - [TELEGRAPH | Crea tu blog de forma gratuita](https://elrincondeatom.com/blog/telegraph-crea-tu-blog-de-forma-gratuita/)
-- [VISUAL C++ | Especialmente pensado para gamers y dev´s](https://elrincondeatom.com/blog/visual-c-especialmente-pensado-para-gamers-y-devs/)
-- [FOLLER | Analiza a fondo de forma gratis cualquier cuenta de Twitter](https://elrincondeatom.com/blog/foller-analiza-a-fondo-de-forma-gratis-cualquier-cuenta-de-twitter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
