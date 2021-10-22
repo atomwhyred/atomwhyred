@@ -31,11 +31,11 @@
 ---
 ### Last Youtube videos
 <!-- YT:START -->
+- [Redmi 9 - Desempaquetado y revisado](https://www.youtube.com/watch?v=VunYPnCH5wA)
 - [¿Redmi Note 7 o Redmi Note 8?](https://www.youtube.com/watch?v=3r-T3X8Xkuc)
 - [#Redmi Note 10 - El mejor gama media de #Xiaomi (hasta la fecha)](https://www.youtube.com/watch?v=5dOmUVbAdVM)
 - [Redmi 9A - Desempaquetado, revisado y mi opinión](https://www.youtube.com/watch?v=IjYzGmrwIks)
 - [Mi Box S después de 1 año de uso - #xiaomi #mibox #androidtv](https://www.youtube.com/watch?v=J_uWC0u7Q-8)
-- [Recovery para nuestros dispositivos - #twrp #orange_fox #pitchblack #skyhawk](https://www.youtube.com/watch?v=yfTeTC1luSs)
 <!-- YT:END -->
 
 <!-- Links -->
