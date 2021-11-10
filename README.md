@@ -23,9 +23,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [WINDOWS | Aplicación compacta y ligera que permite ver nuevas funciones en Windows 11](https://elrincondeatom.com/blog/windows-aplicacion-compacta-y-ligera-que-permite-ver-nuevas-funciones-en-windows-11/)
 - [XIAOMI | Instala una Custom ROM o la Xiaomi.eu basada en MIUI](https://elrincondeatom.com/blog/xiaomi-instala-una-custom-rom-o-la-xiaomi-eu-basada-en-miui/)
-- [InkHunter is an AR app for trying tattoos before you ink indelibly](https://elrincondeatom.com/blog/inkhunter-is-an-ar-app-for-trying-tattoos-before-you-ink-indelibly/)
-- [eToro rolls out its cryptocurrency wallet for Android and iOS](https://elrincondeatom.com/blog/etoro-rolls-out-its-cryptocurrency-wallet-for-android-and-ios/)
-- [Instagram app is reportedly crashing for some Android users](https://elrincondeatom.com/blog/instagram-app-is-reportedly-crashing-for-some-android-users/)
+- [ATAJOS | Para diseñadores y programadores](https://elrincondeatom.com/blog/atajos-para-disenadores-y-programadores/)
+- [WINDOWS | Pasos para actualizar a Windows 11](https://elrincondeatom.com/blog/windows-pasos-para-actualizar-a-windows-11/)
+- [TELEGRAPH | Crea tu blog de forma gratuita](https://elrincondeatom.com/blog/telegraph-crea-tu-blog-de-forma-gratuita/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
