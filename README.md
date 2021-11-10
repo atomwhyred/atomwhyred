@@ -21,11 +21,11 @@
 
 ### Last posts
 <!-- BLOG-POST-LIST:START -->
-- [WINDOWS | Aplicación compacta y ligera que permite ver nuevas funciones en Windows 11](https://elrincondeatom.com/blog/windows-aplicacion-compacta-y-ligera-que-permite-ver-nuevas-funciones-en-windows-11/)
-- [XIAOMI | Instala una Custom ROM o la Xiaomi.eu basada en MIUI](https://elrincondeatom.com/blog/xiaomi-instala-una-custom-rom-o-la-xiaomi-eu-basada-en-miui/)
-- [ATAJOS | Para diseñadores y programadores](https://elrincondeatom.com/blog/atajos-para-disenadores-y-programadores/)
-- [WINDOWS | Pasos para actualizar a Windows 11](https://elrincondeatom.com/blog/windows-pasos-para-actualizar-a-windows-11/)
-- [TELEGRAPH | Crea tu blog de forma gratuita](https://elrincondeatom.com/blog/telegraph-crea-tu-blog-de-forma-gratuita/)
+- [Important things to do before switching from iPhone X to Google Pixel 3XL](https://elrincondeatom.com/blog/important-things-to-do-before-switching-from-iphone-x-to-google-pixel-3xl/)
+- [First look at the new Android 9 «Pie» on the Samsung Galaxy S9](https://elrincondeatom.com/blog/first-look-at-the-new-android-9-pie-on-the-samsung-galaxy-s9/)
+- [Pocophone F1 review: Cheapest phones with the flagship Snapdragon 845](https://elrincondeatom.com/blog/pocophone-f1-review-cheapest-phones-with-the-flagship-snapdragon-845/)
+- [OnePlus 6T Review: Maintaining the status quo, at the moment](https://elrincondeatom.com/blog/oneplus-6t-review-maintaining-the-status-quo-at-the-moment/)
+- [‘Fortnite’ named Ultimate Game of the Year at the Golden Joystick awards](https://elrincondeatom.com/blog/fortnite-named-ultimate-game-of-the-year-at-the-golden-joystick-awards/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
