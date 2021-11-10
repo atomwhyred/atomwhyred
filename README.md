@@ -21,11 +21,11 @@
 
 ### Last posts
 <!-- BLOG-POST-LIST:START -->
-- [Important things to do before switching from iPhone X to Google Pixel 3XL](https://elrincondeatom.com/blog/important-things-to-do-before-switching-from-iphone-x-to-google-pixel-3xl/)
-- [First look at the new Android 9 «Pie» on the Samsung Galaxy S9](https://elrincondeatom.com/blog/first-look-at-the-new-android-9-pie-on-the-samsung-galaxy-s9/)
-- [Pocophone F1 review: Cheapest phones with the flagship Snapdragon 845](https://elrincondeatom.com/blog/pocophone-f1-review-cheapest-phones-with-the-flagship-snapdragon-845/)
-- [OnePlus 6T Review: Maintaining the status quo, at the moment](https://elrincondeatom.com/blog/oneplus-6t-review-maintaining-the-status-quo-at-the-moment/)
-- [‘Fortnite’ named Ultimate Game of the Year at the Golden Joystick awards](https://elrincondeatom.com/blog/fortnite-named-ultimate-game-of-the-year-at-the-golden-joystick-awards/)
+- [WINDOWS | Aplicación compacta y ligera que permite ver nuevas funciones en Windows 11](https://elrincondeatom.com/blog/windows-aplicacion-compacta-y-ligera-que-permite-ver-nuevas-funciones-en-windows-11/)
+- [XIAOMI | Instala una Custom ROM o la Xiaomi.eu basada en MIUI](https://elrincondeatom.com/blog/xiaomi-instala-una-custom-rom-o-la-xiaomi-eu-basada-en-miui/)
+- [InkHunter is an AR app for trying tattoos before you ink indelibly](https://elrincondeatom.com/blog/inkhunter-is-an-ar-app-for-trying-tattoos-before-you-ink-indelibly/)
+- [eToro rolls out its cryptocurrency wallet for Android and iOS](https://elrincondeatom.com/blog/etoro-rolls-out-its-cryptocurrency-wallet-for-android-and-ios/)
+- [Instagram app is reportedly crashing for some Android users](https://elrincondeatom.com/blog/instagram-app-is-reportedly-crashing-for-some-android-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
