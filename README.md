@@ -23,9 +23,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [WINDOWS | Aplicación compacta y ligera que permite ver nuevas funciones en Windows 11](https://elrincondeatom.com/blog/windows-aplicacion-compacta-y-ligera-que-permite-ver-nuevas-funciones-en-windows-11/)
 - [XIAOMI | Instala una Custom ROM o la Xiaomi.eu basada en MIUI](https://elrincondeatom.com/blog/xiaomi-instala-una-custom-rom-o-la-xiaomi-eu-basada-en-miui/)
-- [Google Pixel 3 XL running Android Q appears on Geekbench](https://elrincondeatom.com/blog/google-pixel-3-xl-running-android-q-appears-on-geekbench/)
-- [Twitter tweaks video again, adding view counts for some users](https://elrincondeatom.com/blog/twitter-tweaks-video-again-adding-view-counts-for-some-users/)
-- [Monument Valley: on sacred geometry and a game for everyone](https://elrincondeatom.com/blog/monument-valley-on-sacred-geometry-and-a-game-for-everyone/)
+- [ATAJOS | Para diseñadores y programadores](https://elrincondeatom.com/blog/atajos-para-disenadores-y-programadores/)
+- [WINDOWS | Pasos para actualizar a Windows 11](https://elrincondeatom.com/blog/windows-pasos-para-actualizar-a-windows-11/)
+- [TELEGRAPH | Crea tu blog de forma gratuita](https://elrincondeatom.com/blog/telegraph-crea-tu-blog-de-forma-gratuita/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
