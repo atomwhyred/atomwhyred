@@ -21,11 +21,11 @@
 
 ### Last posts
 <!-- BLOG-POST-LIST:START -->
-- [WINDOWS | Aplicación compacta y ligera que permite ver nuevas funciones en Windows 11](https://elrincondeatom.com/blog/windows-aplicacion-compacta-y-ligera-que-permite-ver-nuevas-funciones-en-windows-11/)
-- [XIAOMI | Instala una Custom ROM o la Xiaomi.eu basada en MIUI](https://elrincondeatom.com/blog/xiaomi-instala-una-custom-rom-o-la-xiaomi-eu-basada-en-miui/)
-- [ATAJOS | Para diseñadores y programadores](https://elrincondeatom.com/blog/atajos-para-disenadores-y-programadores/)
-- [WINDOWS | Pasos para actualizar a Windows 11](https://elrincondeatom.com/blog/windows-pasos-para-actualizar-a-windows-11/)
-- [TELEGRAPH | Crea tu blog de forma gratuita](https://elrincondeatom.com/blog/telegraph-crea-tu-blog-de-forma-gratuita/)
+- [WINDOWS | Aplicación compacta y ligera que permite ver nuevas funciones en Windows 11](https://elrincondeatom.com/windows-aplicacion-compacta-y-ligera-que-permite-ver-nuevas-funciones-en-windows-11/)
+- [XIAOMI | Instala una Custom ROM o la Xiaomi.eu basada en MIUI](https://elrincondeatom.com/xiaomi-instala-una-custom-rom-o-la-xiaomi-eu-basada-en-miui/)
+- [ATAJOS | Para diseñadores y programadores](https://elrincondeatom.com/atajos-para-disenadores-y-programadores/)
+- [WINDOWS | Pasos para actualizar a Windows 11](https://elrincondeatom.com/windows-pasos-para-actualizar-a-windows-11/)
+- [TELEGRAPH | Crea tu blog de forma gratuita](https://elrincondeatom.com/telegraph-crea-tu-blog-de-forma-gratuita/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
