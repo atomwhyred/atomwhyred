@@ -21,11 +21,11 @@
 
 ### Last posts
 <!-- BLOG-POST-LIST:START -->
+- [ANDROID | Fondos interactivos y personalizados a tu gusto](https://elrincondeatom.com/android-fondos-interactivos-y-personalizados-a-tu-gusto/)
 - [WINDOWS | Descargar versiones oficiales de forma fácil](https://elrincondeatom.com/windows-descargar-versiones-oficiales-de-forma-facil/)
 - [WINDOWS | Aplicación compacta y ligera que permite ver nuevas funciones en Windows 11](https://elrincondeatom.com/windows-aplicacion-compacta-y-ligera-que-permite-ver-nuevas-funciones-en-windows-11/)
 - [XIAOMI | Instala una Custom ROM o la Xiaomi.eu basada en MIUI](https://elrincondeatom.com/xiaomi-instala-una-custom-rom-o-la-xiaomi-eu-basada-en-miui/)
 - [ATAJOS | Para diseñadores y programadores](https://elrincondeatom.com/atajos-para-disenadores-y-programadores/)
-- [WINDOWS | Pasos para actualizar a Windows 11](https://elrincondeatom.com/windows-pasos-para-actualizar-a-windows-11/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
