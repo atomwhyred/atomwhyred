@@ -8,7 +8,7 @@
 
 ---
 
-### LOVE, DEV, TELEGRAM
+### LOVE - DEV - TELEGRAM
 
 - 🔭 Actualmente me estoy superando para ser un gran desarrollador.
 - 👯 Estoy colaborando en varios grupos y canales en Telegram.
